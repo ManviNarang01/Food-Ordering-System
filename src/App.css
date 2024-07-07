@@ -1,0 +1,10 @@
+.al-cent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+li:last-child {
+    position: absolute;
+    right:10px;
+}
